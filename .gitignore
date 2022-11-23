@@ -1,0 +1,10 @@
+/tools/texmaker/cmake-build-debug-mingw/
+/tools/texmaker/cmake-build-release-mingw/
+/tools/mapper/cmake-build-debug-mingw/
+/tools/mapper/cmake-build-release-mingw/
+/cmake-build-debug-mingw/
+/cmake-build-release-mingw/
+/assets/map.fld
+/assets/map.bin
+/assets/wolftextures.bin
+/assets/wolftextures.pal
